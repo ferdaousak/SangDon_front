@@ -1,0 +1,7 @@
+{
+  "name": "SangDonFront",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
